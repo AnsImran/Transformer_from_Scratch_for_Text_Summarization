@@ -27,10 +27,30 @@
 
 ### Transformer (Encoder-Decoder)
 - Encoder Layer
+  - MultiHead Self-Attention
+  - Residual Connection & Batch Normalization
+  - Feed Forward Neural Network
+  - Residual Connection & Batch Normalization
 - Full Encoder
+  - Embedding Layer
+  - Positional Encoding
+  - Dropout Layer
+  - Encoder LayerS
 - Decoder Layer
+  - Masked MultiHead Attention (Causal Attention)
+  - Residual Connection & Batch Normalization
+  - MultiHead Attention
+  - Residual Connection & Batch Normalization
+  - Feed Forward Neural Network
+  - Residual Connection & Batch Normalization
 - Full Decoder
+  - Embedding Layer
+  - Positional Encoding
+  - Dropout Layer
+  - Decoder layerS
 - Full TRANSFORMER
+  - Encoder + Decoder + Linear Layer
+  - Log Softmax
 ### Training Loop
 - Epochs, Learning Rate, Batch Size and Pad-Index
 - Loss Function
