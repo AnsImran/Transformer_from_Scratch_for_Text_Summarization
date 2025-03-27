@@ -30,7 +30,7 @@
 - Full Encoder
 - Decoder Layer
 - Full Decoder
-- Full transformer
+- Full TRANSFORMER
 ### Training Loop
 - Epochs, Learning Rate, Batch Size and Pad-Index
 - Loss Function
