@@ -55,11 +55,10 @@
 - Epochs, Learning Rate, Batch Size and Pad-Index
 - Loss Function
 - Optimizer
-- Loss
+- Computing Loss
 - Predictions
+- Clearing Gradients
 - Updating Weights
-- Running Loss
-- Average Loss
 ### Inference
 - Next Word Prediction Function
 - Summarization Function
