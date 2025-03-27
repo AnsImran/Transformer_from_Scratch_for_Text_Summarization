@@ -11,7 +11,7 @@
 <img src="images/results2.JPG" alt="2" width="1000"/>
 
 ---
-## [Table of Contents](https://github.com/AnsImran/Transformer_from_Scratch_for_Text_Summarization/blob/master/Transformer_from_Scratch_for_Text_Summarization_(PyTorch_Implementation).ipynb)
+# [Table of Contents](https://github.com/AnsImran/Transformer_from_Scratch_for_Text_Summarization/blob/master/Transformer_from_Scratch_for_Text_Summarization_(PyTorch_Implementation).ipynb)
 
 ### Data Processing
 - Loading
