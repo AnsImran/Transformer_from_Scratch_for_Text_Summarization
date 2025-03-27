@@ -9,3 +9,6 @@
 ## Results
 <img src="images/results.JPG" alt="1" width="1000"/>
 <img src="images/results2.JPG" alt="2" width="1000"/>
+
+---
+# Table of Contents[Transformer_from_Scratch_for_Text_Summarization_(PyTorch_Implementation).ipynb](https://github.com/AnsImran/Transformer_from_Scratch_for_Text_Summarization/blob/master/Transformer_from_Scratch_for_Text_Summarization_(PyTorch_Implementation).ipynb)
