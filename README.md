@@ -7,4 +7,5 @@
 
 ---
 ## Results
-<img src="images/results.PNG" alt="1" width="600"/>
+<img src="images/results.JPG" alt="1" width="600"/>
+<img src="images/results2.JPG" alt="2" width="600"/>
