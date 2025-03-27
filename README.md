@@ -10,7 +10,6 @@
 #### Course 4 – Week 2  
 
 📘 **Full Specialization GitHub Repo:** [Natural Language Processing from Scratch](https://github.com/AnsImran/natural_language_processing_from_scratch) 
-##### (Explore all the skills I’ve learned throughout this specialization)
 
 ---
 ## Results
