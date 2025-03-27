@@ -13,19 +13,19 @@
 ---
 # [Table of Contents](https://github.com/AnsImran/Transformer_from_Scratch_for_Text_Summarization/blob/master/Transformer_from_Scratch_for_Text_Summarization_(PyTorch_Implementation).ipynb)
 
-### Data Processing
+### 1. Data Processing
 - Loading
 - Preprocessing
 - Tokenization
 - Padding
 - Generator
 
-### Useful Functions
+### 2. Useful Functions
 - Positional Encoding
 - Padding Mask
 - Look Ahead Mask
 
-### Transformer (Encoder-Decoder)
+### 3. Transformer (Encoder-Decoder)
 - Encoder Layer
   - MultiHead Self-Attention
   - Residual Connection & Batch Normalization
@@ -51,7 +51,7 @@
 - Full TRANSFORMER
   - Encoder + Decoder + Linear Layer
   - Log Softmax
-### Training Loop
+### 4. Training Loop
 - Epochs, Learning Rate, Batch Size and Pad-Index
 - Loss Function
 - Optimizer
@@ -59,10 +59,10 @@
 - Predictions
 - Clearing Gradients
 - Updating Weights
-### Inference
+### 5. Inference
 - Next Word Prediction Function
 - Summarization Function
-### Conclusion
+### 6. Conclusion
 - Some Remarks on Results
 ---
 
