@@ -1,9 +1,10 @@
-**tags**: Data Processing, Loading, Preprocessing, Tokenization, Padding, Data Generator, Positional Encoding, Padding Mask, Look Ahead Mask, Encoder, Decoder, MultiHead Self-Attention, Residual Connectioncs, Batch Normalization, Feed Forward Neural Networks, Embedding Layer, Dropout Layer, Masked MultiHead Self-Attention (Causal Attention), Linear Layer, Log Softmax, Training Loop, Epochs, Learning Rate, Batch Size, Pad-Index, Loss Function, Optimizer, Predictions, Clearing Gradients & Updating Weights.
+**tags**: PyTorch, numpy, pandas, Data Processing, Loading, Preprocessing, Tokenization, Padding, Data Generator, Positional Encoding, Padding Mask, Look Ahead Mask, Encoder, Decoder, MultiHead Self-Attention, Residual Connectioncs, Batch Normalization, Feed Forward Neural Networks, Embedding Layer, Dropout Layer, Masked MultiHead Self-Attention (Causal Attention), Linear Layer, Log Softmax, Training Loop, Epochs, Learning Rate, Batch Size, Pad-Index, Loss Function, Optimizer, Predictions, Clearing Gradients & Updating Weights.
 
 
 
 
 ---
+# PyTorch
 ## Building a Transformer from Scratch for Text Summarization  
 ### Based on the [Natural Language Processing Specialization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) by [DeepLearning.ai](https://www.deeplearning.ai)  
 #### Course 4 – Week 2  
