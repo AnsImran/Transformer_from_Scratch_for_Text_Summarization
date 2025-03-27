@@ -37,7 +37,7 @@
   - Dropout Layer
   - Encoder LayerS
 - Decoder Layer
-  - Masked MultiHead Attention (Causal Attention)
+  - Masked MultiHead Self-Attention (Causal Attention)
   - Residual Connection & Batch Normalization
   - MultiHead Attention
   - Residual Connection & Batch Normalization
