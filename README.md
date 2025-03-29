@@ -9,7 +9,7 @@
 ### Based on the [Natural Language Processing Specialization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) by DeepLearning.ai
 #### Course 4 – Week 2  
 
-📘 **Full Specialization GitHub Repo Here:** [Natural Language Processing from Scratch](https://github.com/AnsImran/natural_language_processing_from_scratch) 
+📘 **Full NLP Specialization GitHub Repo Here:** [Natural Language Processing from Scratch](https://github.com/AnsImran/natural_language_processing_from_scratch) 
 
 ---
 ## Results
